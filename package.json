@@ -1,0 +1,23 @@
+{
+  "name": "react-foundation",
+  "version": "1.0.0",
+  "description": "一些foundation reacr的组件",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmqgmy/react-foundation.git"
+  },
+  "author": "zmq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zmqgmy/react-foundation/issues"
+  },
+  "homepage": "https://github.com/zmqgmy/react-foundation#readme",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
