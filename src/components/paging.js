@@ -7,7 +7,6 @@ class Paging extends React.Component {
         this.props.goPage(gopage);
     }
 
-
     render() {
         var lis = [];
         var pageNow = this.props.pageNow;
